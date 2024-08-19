@@ -2,6 +2,106 @@
 
 # Changelog
 
+### [Version 1.11.7](https://github.com/lobehub/lobe-chat/compare/v1.11.6...v1.11.7)
+
+<sup>Released on **2024-08-18**</sup>
+
+#### 🐛 Bug Fixes
+
+- **misc**: Fix topic scroll issue.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### What's fixed
+
+- **misc**: Fix topic scroll issue, closes [#3505](https://github.com/lobehub/lobe-chat/issues/3505) ([c719c7a](https://github.com/lobehub/lobe-chat/commit/c719c7a))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
+### [Version 1.11.6](https://github.com/lobehub/lobe-chat/compare/v1.11.5...v1.11.6)
+
+<sup>Released on **2024-08-18**</sup>
+
+#### ♻ Code Refactoring
+
+- **misc**: Refactor the `SITE_URL` to `APP_URL`.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### Code refactoring
+
+- **misc**: Refactor the `SITE_URL` to `APP_URL`, closes [#3504](https://github.com/lobehub/lobe-chat/issues/3504) ([46bdcea](https://github.com/lobehub/lobe-chat/commit/46bdcea))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
+### [Version 1.11.5](https://github.com/lobehub/lobe-chat/compare/v1.11.4...v1.11.5)
+
+<sup>Released on **2024-08-18**</sup>
+
+#### ♻ Code Refactoring
+
+- **misc**: Refactor the fetch method to fix `response.undefined`.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### Code refactoring
+
+- **misc**: Refactor the fetch method to fix `response.undefined`, closes [#3493](https://github.com/lobehub/lobe-chat/issues/3493) ([30d0609](https://github.com/lobehub/lobe-chat/commit/30d0609))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
+### [Version 1.11.4](https://github.com/lobehub/lobe-chat/compare/v1.11.3...v1.11.4)
+
+<sup>Released on **2024-08-18**</sup>
+
+#### 💄 Styles
+
+- **misc**: Add `SILICONCLOUD_MODEL_LIST` & `SILICONCLOUD_PROXY_URL` support for SiliconCloud.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### Styles
+
+- **misc**: Add `SILICONCLOUD_MODEL_LIST` & `SILICONCLOUD_PROXY_URL` support for SiliconCloud, closes [#3492](https://github.com/lobehub/lobe-chat/issues/3492) ([e41be6d](https://github.com/lobehub/lobe-chat/commit/e41be6d))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
 ### [Version 1.11.3](https://github.com/lobehub/lobe-chat/compare/v1.11.2...v1.11.3)
 
 <sup>Released on **2024-08-17**</sup>
