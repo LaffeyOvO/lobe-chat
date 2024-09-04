@@ -19,7 +19,7 @@ jobs:
 
     steps:
       - uses: actions/checkout@v4
-      with:
+        with:
           token: ${{ secrets.PAT_WITH_WORKFLOW_SCOPE }}  # 使用PAT进行checkout
 
       - name: Clean issue notice
