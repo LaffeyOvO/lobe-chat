@@ -2,6 +2,106 @@
 
 # Changelog
 
+### [Version 1.26.15](https://github.com/lobehub/lobe-chat/compare/v1.26.14...v1.26.15)
+
+<sup>Released on **2024-10-31**</sup>
+
+#### ♻ Code Refactoring
+
+- **misc**: Refactor embedding as plain vector array.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### Code refactoring
+
+- **misc**: Refactor embedding as plain vector array, closes [#4551](https://github.com/lobehub/lobe-chat/issues/4551) ([e2cae36](https://github.com/lobehub/lobe-chat/commit/e2cae36))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
+### [Version 1.26.14](https://github.com/lobehub/lobe-chat/compare/v1.26.13...v1.26.14)
+
+<sup>Released on **2024-10-30**</sup>
+
+#### 💄 Styles
+
+- **misc**: Add `fa-ir` locale.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### Styles
+
+- **misc**: Add `fa-ir` locale, closes [#4553](https://github.com/lobehub/lobe-chat/issues/4553) ([9d9e4bc](https://github.com/lobehub/lobe-chat/commit/9d9e4bc))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
+### [Version 1.26.13](https://github.com/lobehub/lobe-chat/compare/v1.26.12...v1.26.13)
+
+<sup>Released on **2024-10-30**</sup>
+
+#### 🐛 Bug Fixes
+
+- **misc**: Fix the artifacts interface not scrolling.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### What's fixed
+
+- **misc**: Fix the artifacts interface not scrolling, closes [#4499](https://github.com/lobehub/lobe-chat/issues/4499) ([8b6e630](https://github.com/lobehub/lobe-chat/commit/8b6e630))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
+### [Version 1.26.12](https://github.com/lobehub/lobe-chat/compare/v1.26.11...v1.26.12)
+
+<sup>Released on **2024-10-30**</sup>
+
+#### 🐛 Bug Fixes
+
+- **misc**: Fix file image prompts in client mode.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### What's fixed
+
+- **misc**: Fix file image prompts in client mode, closes [#4548](https://github.com/lobehub/lobe-chat/issues/4548) ([1b66639](https://github.com/lobehub/lobe-chat/commit/1b66639))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
 ### [Version 1.26.11](https://github.com/lobehub/lobe-chat/compare/v1.26.10...v1.26.11)
 
 <sup>Released on **2024-10-29**</sup>
