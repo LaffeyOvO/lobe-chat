@@ -2,6 +2,106 @@
 
 # Changelog
 
+### [Version 1.33.3](https://github.com/lobehub/lobe-chat/compare/v1.33.2...v1.33.3)
+
+<sup>Released on **2024-11-25**</sup>
+
+#### 🐛 Bug Fixes
+
+- **misc**: Fix `fetchOnClient` functional for Moonshot.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### What's fixed
+
+- **misc**: Fix `fetchOnClient` functional for Moonshot, closes [#4787](https://github.com/lobehub/lobe-chat/issues/4787) ([bef89a7](https://github.com/lobehub/lobe-chat/commit/bef89a7))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
+### [Version 1.33.2](https://github.com/lobehub/lobe-chat/compare/v1.33.1...v1.33.2)
+
+<sup>Released on **2024-11-25**</sup>
+
+#### 🐛 Bug Fixes
+
+- **misc**: Fix multi-turns tools calling.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### What's fixed
+
+- **misc**: Fix multi-turns tools calling, closes [#4789](https://github.com/lobehub/lobe-chat/issues/4789) ([9d8845f](https://github.com/lobehub/lobe-chat/commit/9d8845f))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
+### [Version 1.33.1](https://github.com/lobehub/lobe-chat/compare/v1.33.0...v1.33.1)
+
+<sup>Released on **2024-11-25**</sup>
+
+#### 💄 Styles
+
+- **misc**: Add gemini-exp-1121 model.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### Styles
+
+- **misc**: Add gemini-exp-1121 model, closes [#4783](https://github.com/lobehub/lobe-chat/issues/4783) ([3b2cd88](https://github.com/lobehub/lobe-chat/commit/3b2cd88))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
+## [Version 1.33.0](https://github.com/lobehub/lobe-chat/compare/v1.32.9...v1.33.0)
+
+<sup>Released on **2024-11-25**</sup>
+
+#### ✨ Features
+
+- **misc**: Add Gitee AI model provider.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### What's improved
+
+- **misc**: Add Gitee AI model provider, closes [#4716](https://github.com/lobehub/lobe-chat/issues/4716) ([f1cb0af](https://github.com/lobehub/lobe-chat/commit/f1cb0af))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
 ### [Version 1.32.9](https://github.com/lobehub/lobe-chat/compare/v1.32.8...v1.32.9)
 
 <sup>Released on **2024-11-24**</sup>
