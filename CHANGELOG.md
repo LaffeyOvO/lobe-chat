@@ -2,6 +2,81 @@
 
 # Changelog
 
+### [Version 1.35.6](https://github.com/lobehub/lobe-chat/compare/v1.35.5...v1.35.6)
+
+<sup>Released on **2024-12-02**</sup>
+
+#### ♻ Code Refactoring
+
+- **misc**: Add user server api key method in the server mode.
+
+#### 💄 Styles
+
+- **misc**: Add QwQ 32B Preview model.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### Code refactoring
+
+- **misc**: Add user server api key method in the server mode, closes [#4870](https://github.com/lobehub/lobe-chat/issues/4870) ([875463a](https://github.com/lobehub/lobe-chat/commit/875463a))
+
+#### Styles
+
+- **misc**: Add QwQ 32B Preview model, closes [#4867](https://github.com/lobehub/lobe-chat/issues/4867) ([edd93e0](https://github.com/lobehub/lobe-chat/commit/edd93e0))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
+### [Version 1.35.5](https://github.com/lobehub/lobe-chat/compare/v1.35.4...v1.35.5)
+
+<sup>Released on **2024-12-02**</sup>
+
+#### ♻ Code Refactoring
+
+- **misc**: Deprecated the current client mode code.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### Code refactoring
+
+- **misc**: Deprecated the current client mode code, closes [#4866](https://github.com/lobehub/lobe-chat/issues/4866) ([7dff458](https://github.com/lobehub/lobe-chat/commit/7dff458))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
+### [Version 1.35.4](https://github.com/lobehub/lobe-chat/compare/v1.35.3...v1.35.4)
+
+<sup>Released on **2024-12-02**</sup>
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
 ### [Version 1.35.3](https://github.com/lobehub/lobe-chat/compare/v1.35.2...v1.35.3)
 
 <sup>Released on **2024-12-01**</sup>
